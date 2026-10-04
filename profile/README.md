@@ -1,15 +1,18 @@
-# Pixel Planet
+# Pixel Node
 
 ## About
 
-Pixel Planet is a Minecraft server aiming to enhance the vanilla experience in a way that stays true to the base game, all while being experimental by bringing in unique gamemodes and features. The server runs on Folia with a mix of plugins, datapacks and a resource pack.
+Pixel Node is the umbrella brand that houses all things made by DragonPixels, including Minecraft films and a Minecraft server
 
-## Realms
+## Projects
 
-- The Hub: The main area you join to when you connect to the server, complete with a story-mode survival extraction gamemode integrated into the open-world hub itself
-- Riftbound: A vanilla first gamemode that still offers a variety of vanilla enhancements, custom advancements and a light amount of original content
-- Chunkbased: A luck-based skyblock-like gamemode where you spawn on a platform in the void and get random items every 30 seconds
+- Pixel Planet: A Minecraft server that enhances the vanilla experience while staying true to the base game
+- The Pixel Pack: A mod and a resource pack that individually aim to improve the vanilla experience while retaining core aspects and values of the base game
+- Aberrant: A Minecraft series spanning eight episodes, telling the story of DragonPixels embarking on a self discovery journey to confront his greatest fear
+- JohnMineplex: A Minecraft series told in six episodes following a player named JohnMineplex who is a prisoner of his own mind and must escape while finding peace in his darkest memories
+- Node: A Discord bot that aims to automate and link the bridge between GitHub, Discord and Minecraft servers, allowing for a more automated workflow
 
 ## Links
 
+- Website: [pixelno.de](https://pixelno.de)
 - Discord: [discord.gg/zCmSaSk](https://discord.gg/zCmSaSk)
